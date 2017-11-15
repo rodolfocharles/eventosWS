@@ -1,4 +1,4 @@
-# eventoWS - Eventos Web Service
+# eventoWS - Gerenciar Eventos Web Service
 
 Projeto - Gerenciar Eventos - Aplicação Web Service RESTful com Spring-Boot e BD - Mysql
 
